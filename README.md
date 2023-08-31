@@ -18,7 +18,7 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/baldehs-online-bookstore.git
+   git clone https://github.com/mbaldeh1/baldehs-online-bookstore.git
 
 
 1. Navigate to the project directory:
